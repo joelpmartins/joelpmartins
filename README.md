@@ -3,7 +3,12 @@
 - 💻 Atualmente estou trabalhando como desenvolvedor mobile na Oais Cloud ☁️.
 - 🌱 Estou aprendendo Android nativo e design.
 - 🎓 Cursando Ciência da Computação (2019-2023) na Universidade do Extremo Sul Catarinense (UNESC).
-
+##
+<div align="center"> 
+  <a href="https://www.youtube.com/channel/UC8tYNYlAvONCJaeMY4wVvag" alt="youtube" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joel-pazini-martins-13aa9820b/" alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://lottiefiles.com/zdnoonzy4u" alt="lottiefiles" target="_blank"><img src="https://imgur.com/GJHPq9w.png" target="_blank"></a>
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <h2>Linguagens de programação, frameworks e banco de dados:</h2>
@@ -39,12 +44,6 @@
   <img  align="center" alt="haiku_animator" height="50" width="50" src="https://www.sfml-dev.org/download/goodies/sfml-icon.svg"/>
 </div>
 <br/><br/>
-<div align="center"> 
-  <a href="https://www.youtube.com/channel/UC8tYNYlAvONCJaeMY4wVvag" alt="youtube" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/joel.pmartins/" alt="instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joel-pazini-martins-13aa9820b/" alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://lottiefiles.com/zdnoonzy4u" alt="lottiefiles" target="_blank"><img src="https://imgur.com/GJHPq9w.png" target="_blank"></a>
-</div>
 
 ##
   
