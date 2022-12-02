@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Joel 👋</h1>
 
-- 💻 Atualmente estou trabalhando como desenvolvedor mobile na Oais Cloud ☁️.
-- 🌱 Estou aprendendo Android nativo e design.
+- 💻 Atualmente estou trabalhando como desenvolvedor web e mobile.
+- 🌱 Estou aprendendo Angular e design.
 - 🎓 Cursando Ciência da Computação (2019-2023) na Universidade do Extremo Sul Catarinense (UNESC).
 ##
 <div align="center"> 
