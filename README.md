@@ -19,8 +19,6 @@
   <img align="center" alt="css" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="nodejs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="c" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="c++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="mongodb" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
@@ -38,11 +36,6 @@
   <img  align="center" alt="synfig" height="60" width="60" src="https://drive.google.com/uc?export=view&id=1118aeSoDsbb0Qb8Rn3DnBHleGSO4PP2z"/>
   <img  align="center" alt="jitter" height="60" width="100" src="https://drive.google.com/uc?export=view&id=1Tkj52oiaOY6tq3aWOk8P5cjaxvQEpish"/>
  </div>
-<div align="center" style="display: inline_block"><br>
-  <h2>Engine e biblioteca para desenvolvimento de jogos (aprendendo):</h2>
-  <img  align="center" alt="godot" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
-  <img  align="center" alt="haiku_animator" height="50" width="50" src="https://www.sfml-dev.org/download/goodies/sfml-icon.svg"/>
-</div>
 <br/><br/>
 
 ##
